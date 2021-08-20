@@ -29,6 +29,7 @@ input {
   width: 100%;
   padding: 1rem;
   height: 50px;
+  font-size: 1rem;
   margin: 0.8rem 0;
 }
 #next {
